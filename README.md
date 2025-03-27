@@ -2,4 +2,6 @@ Infusion is a project developed as part of a frontend course I completed. It was
 
 "Infusion" served as the final project of my frontend development course, and it provided an excellent opportunity to apply everything I had learned, from creating layouts to scripting interactive features, and optimizing the project for mobile-first design.
 
+**[See Page](https://luigineryproject11.netlify.app)** 
+
 ![infusion](img/image1.png)
